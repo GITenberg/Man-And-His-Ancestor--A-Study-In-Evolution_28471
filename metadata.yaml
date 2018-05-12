@@ -1,0 +1,27 @@
+_repo: Man-And-His-Ancestor--A-Study-In-Evolution_28471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+description: ''
+gutenberg_issued: '2009-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28471'
+  lccn: '00001560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings -- Origin'
+- !lcc 'QH'
+title: 'Man And His Ancestor: A Study In Evolution'
+url: http://www.gutenberg.org/ebooks/28471
